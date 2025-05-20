@@ -1,4 +1,4 @@
-Đang tiến hành  
+#Đang tiến hành# 
 Dự án thực hiện gồm có 3 thành viên  
 Đề tài: Thiết kế, tổng hợp và mô phỏng thuật toán băm bảo mật chuẩn SHA-256 sử dụng ngôn ngữ Verilog  
 Nội dung: 
